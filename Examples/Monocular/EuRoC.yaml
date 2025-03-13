@@ -20,18 +20,18 @@ File.version: "1.0"
 Camera.type: "PinHole"
 
 # Camera calibration and distortion parameters (OpenCV) 
-Camera1.fx: 458.654
-Camera1.fy: 457.296
-Camera1.cx: 367.215
-Camera1.cy: 248.375
+Camera1.fx: 8.7494913584169785e+02
+Camera1.fy: 8.7582832695469403e+02
+Camera1.cx: 1.0135000000000000e+03
+Camera1.cy: 7.5950000000000000e+02
 
-Camera1.k1: -0.28340811
-Camera1.k2: 0.07395907
-Camera1.p1: 0.00019359
-Camera1.p2: 1.76187114e-05
+Camera1.k1: 0.0
+Camera1.k2: 0.0
+Camera1.p1: 0.0
+Camera1.p2: 0.0
 
-Camera.width: 752
-Camera.height: 480
+Camera.width: 2028
+Camera.height: 1520
 
 Camera.newWidth: 600
 Camera.newHeight: 350
@@ -75,4 +75,6 @@ Viewer.ViewpointX: 0.0
 Viewer.ViewpointY: -0.7
 Viewer.ViewpointZ: -1.8
 Viewer.ViewpointF: 500.0
+
+System.SaveAtlasToFile: "euroc_map"
 

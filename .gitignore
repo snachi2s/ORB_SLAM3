@@ -91,3 +91,20 @@ my_settings.txt
 borrar/*
 
 */ExecMean.txt
+
+build/
+test/
+frames/
+panama_canal/
+mastr_dataset/
+dataset/
+0_ref_pointcloud.ply
+0_pointcloud.ply
+output.ply
+keyFrameTrajectory.txt
+euroc_map.osa
+CameraTrajectory.txt
+mastr_dataset_folder_arrangement.py
+kf_dataset-MH05_stereoi.txt
+
+
